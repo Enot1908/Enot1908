@@ -1,0 +1,26 @@
+.mammal {
+    height: 100vh;
+    background-color: cornflowerblue;
+    /* background-attachment: fixed; */
+    background-image: url("mammals.webp");
+    background-image: no-repeat;
+    background-size: cover;
+}
+
+.bird {
+    height: 100vh;
+    background-color: rgb(0, 255, 179);
+    /* background-attachment: fixed; */
+    background-image: url("peacock.jpeg");
+    background-image: no-repeat;
+    background-size: cover;
+}
+
+.Reptile {
+    height: 100vh;
+    background-color: rgb(248, 141, 0);
+    /* background-attachment: fixed; */
+    background-image: url("reptile.jpg");
+    background-image: no-repeat;
+    background-size: cover;
+}
